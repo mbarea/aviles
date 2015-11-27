@@ -16,6 +16,8 @@ public class ExamenM8Aviles {
      */
     public static void main(String[] args) {
         System.out.println("Hola");
+        
+        System.out.println("Hasta aquí 2,5");
     }
     
 }
